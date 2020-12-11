@@ -1,0 +1,22 @@
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\bin\Debug\netcoreapp2.0\1,1.deps.json
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\bin\Debug\netcoreapp2.0\1,1.runtimeconfig.json
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\bin\Debug\netcoreapp2.0\1,1.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\bin\Debug\netcoreapp2.0\1,1.dll
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\bin\Debug\netcoreapp2.0\1,1.pdb
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.dll
+C:\Users\Михаил\source\repos\PM HW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.pdb
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\bin\Debug\netcoreapp2.0\1,1.deps.json
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\bin\Debug\netcoreapp2.0\1,1.runtimeconfig.json
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\bin\Debug\netcoreapp2.0\1,1.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\bin\Debug\netcoreapp2.0\1,1.dll
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\bin\Debug\netcoreapp2.0\1,1.pdb
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.dll
+C:\Users\Михаил\source\repos\PMHW1\PM HW1\obj\Debug\netcoreapp2.0\1,1.pdb
