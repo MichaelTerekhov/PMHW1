@@ -1,0 +1,22 @@
+C:\Users\Михаил\source\repos\PM HW1\2.1\bin\Debug\netcoreapp2.0\2.1.deps.json
+C:\Users\Михаил\source\repos\PM HW1\2.1\bin\Debug\netcoreapp2.0\2.1.runtimeconfig.json
+C:\Users\Михаил\source\repos\PM HW1\2.1\bin\Debug\netcoreapp2.0\2.1.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\PM HW1\2.1\bin\Debug\netcoreapp2.0\2.1.dll
+C:\Users\Михаил\source\repos\PM HW1\2.1\bin\Debug\netcoreapp2.0\2.1.pdb
+C:\Users\Михаил\source\repos\PM HW1\2.1\obj\Debug\netcoreapp2.0\2.1.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\source\repos\PM HW1\2.1\obj\Debug\netcoreapp2.0\2.1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\PM HW1\2.1\obj\Debug\netcoreapp2.0\2.1.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\PM HW1\2.1\obj\Debug\netcoreapp2.0\2.1.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\PM HW1\2.1\obj\Debug\netcoreapp2.0\2.1.dll
+C:\Users\Михаил\source\repos\PM HW1\2.1\obj\Debug\netcoreapp2.0\2.1.pdb
+C:\Users\Михаил\source\repos\PMHW1\2.1\bin\Debug\netcoreapp2.0\2.1.deps.json
+C:\Users\Михаил\source\repos\PMHW1\2.1\bin\Debug\netcoreapp2.0\2.1.runtimeconfig.json
+C:\Users\Михаил\source\repos\PMHW1\2.1\bin\Debug\netcoreapp2.0\2.1.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\PMHW1\2.1\bin\Debug\netcoreapp2.0\2.1.dll
+C:\Users\Михаил\source\repos\PMHW1\2.1\bin\Debug\netcoreapp2.0\2.1.pdb
+C:\Users\Михаил\source\repos\PMHW1\2.1\obj\Debug\netcoreapp2.0\2.1.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\source\repos\PMHW1\2.1\obj\Debug\netcoreapp2.0\2.1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\PMHW1\2.1\obj\Debug\netcoreapp2.0\2.1.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\PMHW1\2.1\obj\Debug\netcoreapp2.0\2.1.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\PMHW1\2.1\obj\Debug\netcoreapp2.0\2.1.dll
+C:\Users\Михаил\source\repos\PMHW1\2.1\obj\Debug\netcoreapp2.0\2.1.pdb
